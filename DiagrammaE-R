@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T09:03:23.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7azHUY6856lWGps7lXs6" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T07:57:54.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KMREExWxR3EoxpCnZ3U7" version="24.3.1" type="github">
   <diagram name="Page-1" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="3109" dy="1177" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2555" dy="875" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1170,6 +1170,9 @@
         </mxCell>
         <mxCell id="CkeN8fi7vcAdXBpV0-HW-1" value="Reificazione dell&#39;attributo" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=34;position=0.31;position2=0.73;" vertex="1" parent="1">
           <mxGeometry x="-598" y="1070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CkeN8fi7vcAdXBpV0-HW-2" value="Allo stesso utente dovrebbe essere possibile associare più sessioni di navigazione anonima." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=37;position=0.33;base=43;position2=0.58;" vertex="1" parent="1">
+          <mxGeometry x="1333" y="86" width="223" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
