@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T07:59:57.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UI8Ga7mJvaTDlnwx-3Xe" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T15:01:49.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ghKWWgV5MlBtmiks1xc7" version="24.3.1" type="github">
   <diagram name="Page-1" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="2555" dy="875" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3274" dy="1180" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -506,7 +506,7 @@
             <mxPoint x="3" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZWQUe8vGGLu_ztuye80B-7" value="Statistiche di performance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZWQUe8vGGLu_ztuye80B-7" value="Statistica di performance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="792" y="1118" width="377" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZWQUe8vGGLu_ztuye80B-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -644,7 +644,7 @@
         <mxCell id="yIsJUIauhNpiEt689g3z-243" value="Specificazione" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="1" vertex="1">
           <mxGeometry x="-221" y="49" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yIsJUIauhNpiEt689g3z-246" value="Informazioni" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yIsJUIauhNpiEt689g3z-246" value="Informazione" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-504" y="-131.5" width="697" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yIsJUIauhNpiEt689g3z-250" value="" style="line;strokeWidth=2;html=1;direction=south;" parent="1" vertex="1">
@@ -1168,10 +1168,10 @@
         <mxCell id="fSn-M_2mKj808Byfg9Wi-107" value="Posizione geografica è un dato sensibile??&lt;div&gt;Ma soprattutto la posso ottenere dal contesto??&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.37;" parent="1" vertex="1">
           <mxGeometry x="1103.5" y="522" width="249" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CkeN8fi7vcAdXBpV0-HW-1" value="Reificazione dell&#39;attributo" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=34;position=0.31;position2=0.73;" vertex="1" parent="1">
+        <mxCell id="CkeN8fi7vcAdXBpV0-HW-1" value="Reificazione dell&#39;attributo" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=34;position=0.31;position2=0.73;" parent="1" vertex="1">
           <mxGeometry x="-598" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CkeN8fi7vcAdXBpV0-HW-2" value="Allo stesso utente dovrebbe essere possibile associare più sessioni di navigazione anonima." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=37;position=0.33;base=43;position2=0.58;" vertex="1" parent="1">
+        <mxCell id="CkeN8fi7vcAdXBpV0-HW-2" value="Allo stesso utente dovrebbe essere possibile associare più sessioni di navigazione anonima." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=37;position=0.33;base=43;position2=0.58;" parent="1" vertex="1">
           <mxGeometry x="1333" y="86" width="223" height="80" as="geometry" />
         </mxCell>
       </root>
