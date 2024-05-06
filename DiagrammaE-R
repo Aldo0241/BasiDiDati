@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T05:47:16.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RAZS-8YBnaVrXJJ0ZBB4" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T06:20:25.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xqzF_zF6j3PodHiZU4st" version="24.3.1" type="github">
   <diagram name="Page-1" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="2312" dy="1137" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2237" dy="908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1197,6 +1197,9 @@
           <mxGeometry x="-0.6327" y="2" relative="1" as="geometry">
             <mxPoint x="-15" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UmdCEkq5xchbo1nh1zIH-1" value="Part of&lt;div&gt;Il contenuto fa effettivamente parte della sessione di navigazione anonima.&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=31;position=0.27;position2=0.79;" vertex="1" parent="1">
+          <mxGeometry x="-172" y="198" width="235" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
