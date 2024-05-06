@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T14:43:26.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="U6-MElrrUwZCgFrq24G5" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T15:27:55.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FoPnLmCYnc5D48a_laI_" version="24.3.1" type="github">
   <diagram name="Page-1" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="2750" dy="1173" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3400" dy="1496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -996,8 +996,8 @@
         <mxCell id="CkeN8fi7vcAdXBpV0-HW-1" value="Reificazione dell&#39;attributo" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=34;position=0.31;position2=0.73;" parent="1" vertex="1">
           <mxGeometry x="-598" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CkeN8fi7vcAdXBpV0-HW-2" value="Allo stesso utente dovrebbe essere possibile associare più sessioni di navigazione anonima." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=37;position=0.33;base=43;position2=0.58;" parent="1" vertex="1">
-          <mxGeometry x="1322" y="76" width="234" height="90" as="geometry" />
+        <mxCell id="CkeN8fi7vcAdXBpV0-HW-2" value="Allo stesso utente dovrebbe essere possibile associare più sessioni di navigazione anonima. La sessione di navigazione è la stessa per l&#39;utente, quindi un utente può avere una sola sessione associata." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=37;position=0.33;base=43;position2=0.58;" parent="1" vertex="1">
+          <mxGeometry x="1286" y="49" width="270" height="117" as="geometry" />
         </mxCell>
         <mxCell id="ADXC2Gy6GkebnQt-t0Zl-2" value="Tipo di dispositivo utilizzato" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="820.5" y="543" width="163" height="26" as="geometry" />
