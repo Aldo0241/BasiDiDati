@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T15:47:27.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TeBShdJlEZwmcDzKDvh8" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T18:48:25.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="81cUMmH64xEkLgxkSIuN" version="24.3.1" type="github">
   <diagram name="Page-1" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="3000" dy="1098" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3432" dy="1218" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,15 +81,6 @@
         </mxCell>
         <mxCell id="HT0RPaNeKAXhmDAP7SFR-89" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1066.5" y="629" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="HT0RPaNeKAXhmDAP7SFR-90" value="" style="line;strokeWidth=2;html=1;direction=north;" parent="1" vertex="1">
-          <mxGeometry x="1147.5" y="639" width="10" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="HT0RPaNeKAXhmDAP7SFR-91" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1147.5" y="629" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="HT0RPaNeKAXhmDAP7SFR-92" value="Posizione geografica" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1119" y="606" width="129" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HT0RPaNeKAXhmDAP7SFR-93" value="Tempo totale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1032" y="606" width="87" height="26" as="geometry" />
@@ -990,9 +981,6 @@
         <mxCell id="fSn-M_2mKj808Byfg9Wi-106" value="Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1773" y="-40" width="28" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fSn-M_2mKj808Byfg9Wi-107" value="Posizione geografica è un dato sensibile??&lt;div&gt;Ma soprattutto la posso ottenere dal contesto??&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.37;" parent="1" vertex="1">
-          <mxGeometry x="1103.5" y="522" width="249" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="CkeN8fi7vcAdXBpV0-HW-1" value="Reificazione dell&#39;attributo" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=34;position=0.31;position2=0.73;" parent="1" vertex="1">
           <mxGeometry x="-598" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
@@ -1121,7 +1109,7 @@
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-40" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UmdCEkq5xchbo1nh1zIH-39">
           <mxGeometry x="-0.0309" y="2" relative="1" as="geometry">
-            <mxPoint x="-13" y="-15" as="offset" />
+            <mxPoint x="-14" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
