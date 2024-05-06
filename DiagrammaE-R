@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T13:38:42.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="35b4M-sUeNykcWNDFZL9" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T14:31:56.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cLkdQoZjgQTRIGa3qpZB" version="24.3.1" type="github">
   <diagram name="Page-1" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="3313" dy="1453" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4333" dy="1960" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -899,9 +899,6 @@
             <mxPoint x="2" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fSn-M_2mKj808Byfg9Wi-60" value="Part of&lt;br&gt;&lt;b&gt;Non so se i metadata facciano effettivamente parte dell&#39;entità articolo.&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;base=35;size=12;position=0.3;position2=0.62;" parent="1" vertex="1">
-          <mxGeometry x="-956" y="431.5" width="165" height="76.5" as="geometry" />
-        </mxCell>
         <mxCell id="fSn-M_2mKj808Byfg9Wi-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.499;exitY=0.015;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="yIsJUIauhNpiEt689g3z-272" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-360" y="885" as="targetPoint" />
@@ -941,9 +938,6 @@
           <mxGeometry x="-0.1717" relative="1" as="geometry">
             <mxPoint y="12" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fSn-M_2mKj808Byfg9Wi-89" value="Part of&lt;div&gt;Dubbio se lo sia effettivamente&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=31;position=0.27;position2=0.79;" parent="1" vertex="1">
-          <mxGeometry x="443" y="934" width="148" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fSn-M_2mKj808Byfg9Wi-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.089;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="ZWQUe8vGGLu_ztuye80B-11" target="ZWQUe8vGGLu_ztuye80B-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
