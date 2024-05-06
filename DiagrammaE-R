@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T14:35:04.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="z3p5eFnSovea9Ab15jJK" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T14:36:22.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="euzxOMR8D-vpgvQsZFn0" version="24.3.1" type="github">
   <diagram name="Page-1" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="3313" dy="1453" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2583" dy="1090" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1207,6 +1207,9 @@
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-73" value="La sequenza di navigazione è l&#39;insieme delle pagine visitate." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="1103.5" y="-40" width="151.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UmdCEkq5xchbo1nh1zIH-74" value="Regola esterna: magari le pagine più visitate solo al massimo 3." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="436" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
