@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T18:08:03.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yOSpgxjd4h7y-4ZmyKvn" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T18:22:55.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="K_HMOCh9uxZlWBCFSaEt" version="24.3.1" type="github">
   <diagram name="Page-1" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="4745" dy="1749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3258" dy="1098" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         <mxCell id="fSn-M_2mKj808Byfg9Wi-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=0.022;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HT0RPaNeKAXhmDAP7SFR-215" target="HT0RPaNeKAXhmDAP7SFR-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fSn-M_2mKj808Byfg9Wi-88" value="(0,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fSn-M_2mKj808Byfg9Wi-87" vertex="1" connectable="0">
+        <mxCell id="fSn-M_2mKj808Byfg9Wi-88" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fSn-M_2mKj808Byfg9Wi-87" vertex="1" connectable="0">
           <mxGeometry x="0.4303" y="3" relative="1" as="geometry">
             <mxPoint x="-13" as="offset" />
           </mxGeometry>
@@ -444,7 +444,7 @@
             <mxPoint x="3" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZWQUe8vGGLu_ztuye80B-7" value="Statistica di performance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZWQUe8vGGLu_ztuye80B-7" value="Statistiche di performance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="792" y="1118" width="377" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZWQUe8vGGLu_ztuye80B-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -927,7 +927,7 @@
         <mxCell id="fSn-M_2mKj808Byfg9Wi-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="HT0RPaNeKAXhmDAP7SFR-217" target="HT0RPaNeKAXhmDAP7SFR-215" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fSn-M_2mKj808Byfg9Wi-86" value="(0,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fSn-M_2mKj808Byfg9Wi-85" vertex="1" connectable="0">
+        <mxCell id="fSn-M_2mKj808Byfg9Wi-86" value="(0,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fSn-M_2mKj808Byfg9Wi-85" vertex="1" connectable="0">
           <mxGeometry x="-0.1717" relative="1" as="geometry">
             <mxPoint y="12" as="offset" />
           </mxGeometry>
@@ -1120,7 +1120,7 @@
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-44" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UmdCEkq5xchbo1nh1zIH-43">
           <mxGeometry x="-0.6327" y="2" relative="1" as="geometry">
-            <mxPoint x="-15" y="-3" as="offset" />
+            <mxPoint x="-21" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6_I9ZkQwGKwYrt2Qz4lm-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="1" vertex="1">
