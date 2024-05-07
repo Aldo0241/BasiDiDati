@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T13:14:40.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BoOrXbrddAtW57pBE13f" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T13:14:49.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BkfCEDs9INNoLtfWTujV" version="24.3.1" type="github">
   <diagram name="Page-1" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="4167" dy="1414" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4546" dy="1546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1247,9 +1247,6 @@
           <mxGeometry x="-0.2275" y="-4" relative="1" as="geometry">
             <mxPoint x="12" y="28" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UmdCEkq5xchbo1nh1zIH-91" value="Questa dovrebbe essere una relazione da reificare? Altrimenti la stessa pagina non potrebbe essere visualizzata più volte." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=40;position=0.26;base=22;" vertex="1" parent="1">
-          <mxGeometry x="273" y="117" width="216.5" height="107" as="geometry" />
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="585.5" y="-52" width="5" height="5" as="geometry" />
