@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T18:32:55.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_zkpu4kSXMkYx7So6nY5" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T19:48:09.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="aSIeJF0C_H3z2v5L-cfR" version="24.3.1" type="github">
   <diagram name="Page-1" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="3902" dy="1322" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4243" dy="1546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -978,7 +978,7 @@
         <mxCell id="fSn-M_2mKj808Byfg9Wi-106" value="Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1773" y="-40" width="28" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CkeN8fi7vcAdXBpV0-HW-2" value="Allo stesso utente dovrebbe essere possibile associare più sessioni di navigazione anonima. La sessione di navigazione è la stessa per l&#39;utente, quindi un utente può avere una sola sessione associata." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=37;position=0.33;base=43;position2=0.58;" parent="1" vertex="1">
+        <mxCell id="CkeN8fi7vcAdXBpV0-HW-2" value="Allo stesso utente dovrebbe essere possibile associare più sessioni di navigazione anonima? La sessione di navigazione è la stessa per l&#39;utente, quindi un utente può avere una sola sessione associata." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=37;position=0.33;base=43;position2=0.58;" parent="1" vertex="1">
           <mxGeometry x="1286" y="49" width="270" height="117" as="geometry" />
         </mxCell>
         <mxCell id="ADXC2Gy6GkebnQt-t0Zl-2" value="Tipo di dispositivo utilizzato" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -1250,6 +1250,9 @@
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-110" value="Possibile regola di vincolo sfuggita per quanto riguarda Categoria. Questa suddivisione sembra non servire a molto altrimenti." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="293.5" y="998" width="246" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="UmdCEkq5xchbo1nh1zIH-111" value="Se un annuncio non è matchato con nessun contesto, posso produrre delle statistiche di performance? Questa è una possibile regola di vincolo? Un annuncio può non essere matchato con alcun contesto perché non sappiamo se gli utenti siano interessati a tutti i tipi di annunci memorizzati." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="1084.5" y="753" width="440" height="124" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
