@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T13:14:49.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BkfCEDs9INNoLtfWTujV" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T18:08:03.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yOSpgxjd4h7y-4ZmyKvn" version="24.3.1" type="github">
   <diagram name="Page-1" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="4546" dy="1546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4745" dy="1749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -778,9 +778,6 @@
         <mxCell id="yIsJUIauhNpiEt689g3z-321" value="Visualizzazioni uniche" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="813" y="983" width="135" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yIsJUIauhNpiEt689g3z-325" value="Ricaviamo il tasso di CTR (Click-through rate) dal rapporto del numero di click ricevuti e il numero di visualizzazioni; Potrebbe essere una metrica migliore la copertura da aggiungere come attributo." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="1180.5" y="866.5" width="200" height="126" as="geometry" />
-        </mxCell>
         <mxCell id="yIsJUIauhNpiEt689g3z-326" value="" style="line;strokeWidth=2;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="917.5" y="1087" width="10" height="30" as="geometry" />
         </mxCell>
@@ -1198,12 +1195,6 @@
         <mxCell id="UmdCEkq5xchbo1nh1zIH-72" value="(1,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="813" y="209.00043478260875" as="geometry" />
         </mxCell>
-        <mxCell id="UmdCEkq5xchbo1nh1zIH-73" value="La sequenza di navigazione è l&#39;insieme delle pagine visitate." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1103.5" y="-40" width="151.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UmdCEkq5xchbo1nh1zIH-74" value="Regola esterna: magari le pagine più visitate solo al massimo 3." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="436" width="180" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-76" value="" style="line;strokeWidth=2;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1771" y="160" width="10" height="30" as="geometry" />
         </mxCell>
@@ -1219,8 +1210,8 @@
         <mxCell id="UmdCEkq5xchbo1nh1zIH-80" value="Loggato" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1745.5" y="124" width="61" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="UmdCEkq5xchbo1nh1zIH-81" value="La data di registrazione è presente solo nel caso di utente loggato. Loggato è un attributo booleano." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.14;" vertex="1" parent="1">
-          <mxGeometry x="1876" y="52" width="216" height="86" as="geometry" />
+        <mxCell id="UmdCEkq5xchbo1nh1zIH-81" value="Decidere a cosa si riferisce ultimo accesso, se alla data di accesso dell&#39;utente all&#39;account oppure se di accesso alla sessione." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.14;" vertex="1" parent="1">
+          <mxGeometry x="1937" y="-30.5" width="225" height="98.5" as="geometry" />
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-82" value="Modificare il nome dell&#39;entità informazione, perché assomiglia troppo a un attributo.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=37;position=0.26;base=23;" vertex="1" parent="1">
           <mxGeometry x="-2185" y="-249" width="163" height="116" as="geometry" />
@@ -1233,9 +1224,6 @@
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-88" value="Stato" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="838" y="128" width="46" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UmdCEkq5xchbo1nh1zIH-89" value="Lo stato può essere attivo, inattivo e terminato." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=32;position=0.29;position2=0.81;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="72" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UmdCEkq5xchbo1nh1zIH-52" target="UmdCEkq5xchbo1nh1zIH-95">
           <mxGeometry relative="1" as="geometry">
@@ -1250,6 +1238,21 @@
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="585.5" y="-52" width="5" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="UmdCEkq5xchbo1nh1zIH-105" value="" style="line;strokeWidth=2;html=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="944" y="1178" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UmdCEkq5xchbo1nh1zIH-106" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="944" y="1208" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UmdCEkq5xchbo1nh1zIH-108" value="CTR (Click-Through rate)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="872.5" y="1220" width="153" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="UmdCEkq5xchbo1nh1zIH-109" value="Attenzione alle possibili regole di vincolo perse/dimenticate per quanto riguarda come ricavare i valori di questi attributi.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1197" y="939" width="241" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="UmdCEkq5xchbo1nh1zIH-110" value="Possibile regola di vincolo sfuggita per quanto riguarda Categoria. Questa suddivisione sembra non servire a molto altrimenti." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="293.5" y="998" width="246" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
