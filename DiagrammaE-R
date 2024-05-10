@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T11:56:51.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="1NTFJwuveqTjl9yz_0U-" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-10T18:20:46.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PhGqPTGaYtn9A9uwJcNE" version="24.3.1" type="github" pages="3">
   <diagram name="Completo" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="5118" dy="1455" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7320" dy="2516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -590,24 +590,6 @@
         </mxCell>
         <mxCell id="yIsJUIauhNpiEt689g3z-258" value="Ora di pubblicazione" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1848" y="-204" width="118" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="yIsJUIauhNpiEt689g3z-259" value="" style="line;strokeWidth=2;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-1736" y="-278" width="10" height="141.5" as="geometry" />
-        </mxCell>
-        <mxCell id="yIsJUIauhNpiEt689g3z-260" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1736" y="-288.5" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="yIsJUIauhNpiEt689g3z-261" value="Data ultima modifica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1790" y="-309" width="118" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="yIsJUIauhNpiEt689g3z-262" value="" style="line;strokeWidth=2;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-1672" y="-167" width="10" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="yIsJUIauhNpiEt689g3z-263" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1672" y="-177" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="yIsJUIauhNpiEt689g3z-264" value="Ora ultima modifica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1726" y="-204" width="118" height="23" as="geometry" />
         </mxCell>
         <mxCell id="yIsJUIauhNpiEt689g3z-265" value="" style="line;strokeWidth=2;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-1212" y="-338" width="10" height="125" as="geometry" />
@@ -1231,9 +1213,6 @@
         </mxCell>
         <mxCell id="kwRLjrY71mNs_mv_ozEm-46" value="Produzione" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;direction=east;" parent="1" vertex="1">
           <mxGeometry x="1297" y="414" width="150" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="kwRLjrY71mNs_mv_ozEm-54" value="Escludiamo la possibilità per cui un annuncio non sia associato a nulla. Ogni annuncio del DB deve apparire su una pagina." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="1164" y="758.5" width="254.25" height="98" as="geometry" />
         </mxCell>
         <mxCell id="kwRLjrY71mNs_mv_ozEm-55" value="Definire regola di vincolo (RV) per frequenza." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
           <mxGeometry x="2005" y="815" width="120" height="80" as="geometry" />
