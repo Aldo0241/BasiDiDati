@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T11:42:41.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tApXgsoMLogxEvZwq1TH" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-10T11:56:51.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="1NTFJwuveqTjl9yz_0U-" version="24.3.1" type="github" pages="3">
   <diagram name="Completo" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="4510" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5118" dy="1455" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -882,7 +882,7 @@
         <mxCell id="fSn-M_2mKj808Byfg9Wi-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="HT0RPaNeKAXhmDAP7SFR-217" target="HT0RPaNeKAXhmDAP7SFR-215" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fSn-M_2mKj808Byfg9Wi-86" value="(1,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fSn-M_2mKj808Byfg9Wi-85" vertex="1" connectable="0">
+        <mxCell id="fSn-M_2mKj808Byfg9Wi-86" value="(0,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fSn-M_2mKj808Byfg9Wi-85" vertex="1" connectable="0">
           <mxGeometry x="-0.1717" relative="1" as="geometry">
             <mxPoint y="12" as="offset" />
           </mxGeometry>
@@ -937,7 +937,7 @@
           <mxGeometry x="1028.5" y="588.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ADXC2Gy6GkebnQt-t0Zl-7" value="Lingua preferita" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="983" y="568.5" width="101" height="26" as="geometry" />
+          <mxGeometry x="985.5" y="563.5" width="101" height="26" as="geometry" />
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-7" value="Pagina" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-23" y="-384" width="363" height="60" as="geometry" />
@@ -960,14 +960,8 @@
         <mxCell id="UmdCEkq5xchbo1nh1zIH-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="35.75" y="-478.5" width="9.5" height="9.5" as="geometry" />
         </mxCell>
-        <mxCell id="UmdCEkq5xchbo1nh1zIH-15" value="" style="line;strokeWidth=2;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="111" y="-420" width="10" height="36" as="geometry" />
-        </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-16" value="Data di visita" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="483.5" y="-205.5" width="87" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UmdCEkq5xchbo1nh1zIH-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="111" y="-428" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-18" value="" style="line;strokeWidth=2;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="185" y="-413" width="10" height="29" as="geometry" />
@@ -1296,6 +1290,12 @@
         </mxCell>
         <mxCell id="yFVchWOmPD0pfEAcd_bn-28" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1603" y="1123" width="43" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yFVchWOmPD0pfEAcd_bn-29" value="Queste sono regole di derivazione? Le statistiche sono tutti concetti che recupero da altre entità oppure le ottengo dall&#39;interazione dell&#39;utente con la pagina?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-1014" y="-459" width="237" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="yFVchWOmPD0pfEAcd_bn-30" value="Se un determinato annuncio non è associato ad alcun contesto le sue statistiche di performance saranno tutte 0 o qualcosa di simile" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=31;position=0.28;" vertex="1" parent="1">
+          <mxGeometry x="194" y="939" width="239" height="107" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
