@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T16:15:50.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UW3lH1qebcX1Y0Io1A-M" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-11T21:07:24.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="I8gN1NULv4A7eI3_CF1E" version="24.3.1" type="github" pages="3">
   <diagram name="Completo" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="6343" dy="2087" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5832" dy="1784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1424,6 +1424,9 @@
         </mxCell>
         <mxCell id="Y-yZmc3YY69HQ4ZBM0dr-64" value="Durata della visita" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="628.5" y="-197" width="113" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eisaU5a_CFsSSlFmxPtw-1" value="Probabilmente la cardinalità minima è 0." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="2577" y="776.25" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
