@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T07:21:47.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="SyJjMol3GE06DxGJKkl1" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-12T11:18:00.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="e4Yz3ZtHd9KfC4WN0Vvb" version="24.3.1" type="github" pages="3">
   <diagram name="Completo" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="7891" dy="2291" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7029" dy="2142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -956,7 +956,7 @@
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-66" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UmdCEkq5xchbo1nh1zIH-53" vertex="1" connectable="0">
           <mxGeometry x="-0.055" y="-5" relative="1" as="geometry">
-            <mxPoint x="-19" y="-31" as="offset" />
+            <mxPoint x="-24" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UmdCEkq5xchbo1nh1zIH-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -1426,11 +1426,14 @@
         <mxCell id="eisaU5a_CFsSSlFmxPtw-1" value="Probabilmente la cardinalità minima è 0. In questo caso stiamo parlando comunque di pattern di una ternaria? No, perché non esiste l&#39;entità relazione che non sia collegata ad alcun utente." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="2502" y="791" width="252" height="101.75" as="geometry" />
         </mxCell>
+        <mxCell id="p-S0nSBPA5wpZ1FCLvCs-2" value="Aggiungere qualche attributo alle entità figlie, almeno per farli comprendere." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=37;position=0.3;" vertex="1" parent="1">
+          <mxGeometry x="-3339" y="1138" width="210" height="104" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Bdgwjtwvhz73A73trkRU" name="Canonico">
-    <mxGraphModel dx="3566" dy="2198" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6661" dy="2909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
