@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T22:15:10.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PhFLErssLR10r3K1bmVI" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-12T07:20:57.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fkLsRQJkMepGstvYuStt" version="24.3.1" type="github" pages="3">
   <diagram name="Completo" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="6115" dy="1784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7891" dy="2291" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -902,7 +902,7 @@
         <mxCell id="UmdCEkq5xchbo1nh1zIH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="UmdCEkq5xchbo1nh1zIH-27" target="UmdCEkq5xchbo1nh1zIH-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UmdCEkq5xchbo1nh1zIH-32" value="(1,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UmdCEkq5xchbo1nh1zIH-29" vertex="1" connectable="0">
+        <mxCell id="UmdCEkq5xchbo1nh1zIH-32" value="(0,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UmdCEkq5xchbo1nh1zIH-29" vertex="1" connectable="0">
           <mxGeometry x="-0.1205" relative="1" as="geometry">
             <mxPoint x="-1" y="10" as="offset" />
           </mxGeometry>
@@ -1337,13 +1337,11 @@
         <mxCell id="Y-yZmc3YY69HQ4ZBM0dr-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2354.5" y="907" width="5" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="Y-yZmc3YY69HQ4ZBM0dr-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.024;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y-yZmc3YY69HQ4ZBM0dr-4" target="Y-yZmc3YY69HQ4ZBM0dr-35">
+        <mxCell id="Y-yZmc3YY69HQ4ZBM0dr-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y-yZmc3YY69HQ4ZBM0dr-4" target="Y-yZmc3YY69HQ4ZBM0dr-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2460" y="969" as="sourcePoint" />
             <mxPoint x="2622" y="1109" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2493" y="969" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-yZmc3YY69HQ4ZBM0dr-37" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y-yZmc3YY69HQ4ZBM0dr-36">
@@ -1425,7 +1423,7 @@
         <mxCell id="Y-yZmc3YY69HQ4ZBM0dr-64" value="Durata della visita" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="628.5" y="-197" width="113" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="eisaU5a_CFsSSlFmxPtw-1" value="Probabilmente la cardinalità minima è 0. In questo caso stiamo parlando comunque di pattern di una ternaria?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="eisaU5a_CFsSSlFmxPtw-1" value="Probabilmente la cardinalità minima è 0. In questo caso stiamo parlando comunque di pattern di una ternaria? No, perché non esiste l&#39;entità relazione che non sia collegata ad alcun utente." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="2502" y="791" width="252" height="101.75" as="geometry" />
         </mxCell>
       </root>
