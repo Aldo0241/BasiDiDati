@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T22:19:58.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pR8QHf_4aKdcUVnI99Ml" version="24.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-16T22:21:30.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="SOGfb3h133SBZlEQWiiO" version="24.4.3" type="github" pages="5">
   <diagram name="Concettuale" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5034" dy="1580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5516,6 +5516,9 @@
         </mxCell>
         <mxCell id="bNRVNImh1WaptcxxOH1u-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Spero sia così, ma comunque mi dà dei problemi con i pallini neri pieni&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="642.5" y="-282" width="128" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="WCsVH_OHCc14Oej_jXED-1" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="526.8042015386955" y="458.70204967695827" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
