@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T21:45:57.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="odnIZlgg6Bu-9xqqzPyH" version="24.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-16T21:53:45.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="sEe2oPw7qsT4CnxxqvtC" version="24.4.2" type="github" pages="5">
   <diagram name="Concettuale" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="5034" dy="1580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1435,7 +1435,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rwC5PwoxcUHHxEY1nxII" name="Ristrutturato">
-    <mxGraphModel dx="3690" dy="1365" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4790" dy="2030" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4403,7 +4403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bdgwjtwvhz73A73trkRU" name="Canonico">
-    <mxGraphModel dx="2709" dy="1621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5538,7 +5538,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z2z7uijmoMQSFYvO2v_5" name="Bozza">
-    <mxGraphModel dx="5985" dy="2645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4087" dy="1668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6266,7 +6266,7 @@
         </mxCell>
         <mxCell id="Nbf3sar_MdUSQi6xC1E3-215" value="(1,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nbf3sar_MdUSQi6xC1E3-214">
           <mxGeometry x="0.3085" y="-5" relative="1" as="geometry">
-            <mxPoint x="13" y="8" as="offset" />
+            <mxPoint x="-62" y="197" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nbf3sar_MdUSQi6xC1E3-216" value="Pagina Visitata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -7016,13 +7016,28 @@
         <mxCell id="Nbf3sar_MdUSQi6xC1E3-410" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Nbf3sar_MdUSQi6xC1E3-412" target="Nbf3sar_MdUSQi6xC1E3-313">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nbf3sar_MdUSQi6xC1E3-411" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nbf3sar_MdUSQi6xC1E3-410">
+        <mxCell id="Nbf3sar_MdUSQi6xC1E3-411" value="(1,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nbf3sar_MdUSQi6xC1E3-410">
           <mxGeometry x="-0.5095" relative="1" as="geometry">
             <mxPoint x="1" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nbf3sar_MdUSQi6xC1E3-412" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="795" y="-524" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ-QBelQYw0UKfl7gri--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=10;endArrow=none;endFill=0;" edge="1" parent="1" source="JJ-QBelQYw0UKfl7gri--2" target="Nbf3sar_MdUSQi6xC1E3-313">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JJ-QBelQYw0UKfl7gri--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;jumpStyle=arc;jumpSize=10;endArrow=none;endFill=0;" edge="1" parent="1" source="JJ-QBelQYw0UKfl7gri--2" target="Nbf3sar_MdUSQi6xC1E3-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2053" y="697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JJ-QBelQYw0UKfl7gri--2" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="1978" y="-334" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
