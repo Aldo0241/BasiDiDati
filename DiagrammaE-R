@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T17:06:17.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lL9X1bBlOD0Qc1H3mgP_" version="24.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-16T17:35:02.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UOfSoRvt4CT0wGmYQdVd" version="24.4.3" type="github" pages="4">
   <diagram name="Completo" id="ShApY0wwxloiYAE1CTlF">
-    <mxGraphModel dx="5033" dy="1428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5034" dy="1580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -971,9 +971,6 @@
         </mxCell>
         <mxCell id="kwRLjrY71mNs_mv_ozEm-46" value="Produzione" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;direction=east;" parent="1" vertex="1">
           <mxGeometry x="1297" y="414" width="150" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="kwRLjrY71mNs_mv_ozEm-55" value="Definire regola di vincolo (RV) per frequenza." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="2005" y="815" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yFVchWOmPD0pfEAcd_bn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.907;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="rLDyXv6_Zr0MlSvp5G-T-14" target="HT0RPaNeKAXhmDAP7SFR-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
