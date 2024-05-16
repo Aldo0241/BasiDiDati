@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T18:18:00.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tVVyZ8d2BYlwv-OwcW0k" version="24.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-16T20:42:31.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0l0_C2MLalXUsHy3play" version="24.4.3" type="github" pages="4">
   <diagram name="Completo" id="ShApY0wwxloiYAE1CTlF">
     <mxGraphModel dx="5034" dy="1580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -882,9 +882,6 @@
         </mxCell>
         <mxCell id="sD37FToSly7UFOcTaA3N-1" value="Il tempo di permanenza indica quanto tempo l&#39;utente vi è sulla pagina in cui c&#39;è l&#39;annuncio." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
           <mxGeometry x="1282.5" y="1188" width="225" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="sD37FToSly7UFOcTaA3N-2" value="Durata media della visita è data dal tempo totale/il numero di pagine visitate RD" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="534" width="259" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kwRLjrY71mNs_mv_ozEm-1" value="Articolo&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1072" y="825" width="363" height="60" as="geometry" />
